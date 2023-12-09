@@ -4,8 +4,6 @@
 
 representation of the structure of the item \(3.84\) or element \(3.41\) that allows identification of building blocks, their boundaries and interfaces, and includes the allocation of requirements to these building blocks 
 
-项目（3.84）或元素（3.41）的结构的表示形式，它用于识别结构模块，以及边界和接口，并包括对这些结构模块的需求分配
-
 ## 3.4 Assessment
 
 examination of whether a characteristic of an item \(3.48\) or element \(3.41\) achieves the ISO 26262 objectives
